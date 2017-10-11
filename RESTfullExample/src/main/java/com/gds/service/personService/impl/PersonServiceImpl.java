@@ -5,13 +5,9 @@ import com.gds.dto.PersonDto;
 import com.gds.service.personService.interfaces.PersonService;
 import com.gds.entity.Person;
 
-import javax.ejb.Local;
-import javax.ejb.Stateless;
 import javax.inject.Inject;
 import java.util.UUID;
 
-@Stateless
-@Local(PersonService.class)
 public class PersonServiceImpl implements PersonService{
 
     @Inject

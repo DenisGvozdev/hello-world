@@ -41,11 +41,11 @@
     </dependency>
 
     <!-- Dependency injection -->
-    <dependency>
-      <groupId>javax.inject</groupId>
-      <artifactId>javax.inject</artifactId>
-      <version>1</version>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>javax.inject</groupId>-->
+      <!--<artifactId>javax.inject</artifactId>-->
+      <!--<version>1</version>-->
+    <!--</dependency>-->
 
       <dependency>
           <groupId>org.postgresql</groupId>
@@ -101,33 +101,33 @@
       <!-- Hibernate library dependecy end -->
 
       <!-- https://mvnrepository.com/artifact/javax.ejb/ejb-api -->
-      <dependency>
-          <groupId>javax.ejb</groupId>
-          <artifactId>ejb-api</artifactId>
-          <version>3.0</version>
-          <scope>provided</scope>
-      </dependency>
+      <!--<dependency>-->
+          <!--<groupId>javax.ejb</groupId>-->
+          <!--<artifactId>ejb-api</artifactId>-->
+          <!--<version>3.0</version>-->
+          <!--<scope>provided</scope>-->
+      <!--</dependency>-->
 
       <!-- Spring stuff -->
-      <dependency>
-          <groupId>org.springframework</groupId>
-          <artifactId>spring-beans</artifactId>
-          <version>4.0.3.RELEASE</version>
-          <exclusions>
-              <exclusion>
-                  <groupId>commons-logging</groupId>
-                  <artifactId>commons-logging</artifactId>
-              </exclusion>
-          </exclusions>
-      </dependency>
+      <!--<dependency>-->
+          <!--<groupId>org.springframework</groupId>-->
+          <!--<artifactId>spring-beans</artifactId>-->
+          <!--<version>4.0.3.RELEASE</version>-->
+          <!--<exclusions>-->
+              <!--<exclusion>-->
+                  <!--<groupId>commons-logging</groupId>-->
+                  <!--<artifactId>commons-logging</artifactId>-->
+              <!--</exclusion>-->
+          <!--</exclusions>-->
+      <!--</dependency>-->
 
       <!-- for @ApplicationScoped, beans.xml-->
-      <dependency>
-          <groupId>javax.enterprise</groupId>
-          <artifactId>cdi-api</artifactId>
-          <version>1.2</version>
-          <scope>provided</scope>
-      </dependency>
+      <!--<dependency>-->
+          <!--<groupId>javax.enterprise</groupId>-->
+          <!--<artifactId>cdi-api</artifactId>-->
+          <!--<version>1.2</version>-->
+          <!--<scope>provided</scope>-->
+      <!--</dependency>-->
 
       <!-- for @Inject -->
       <dependency>
@@ -137,15 +137,12 @@
       </dependency>
 
       <!-- for @Inject -->
-      <dependency>
-          <groupId>javax</groupId>
-          <artifactId>javaee-api</artifactId>
-          <version>7.0</version>
-          <scope>provided</scope>
-      </dependency>
-
-
-
+      <!--<dependency>-->
+          <!--<groupId>javax</groupId>-->
+          <!--<artifactId>javaee-api</artifactId>-->
+          <!--<version>7.0</version>-->
+          <!--<scope>provided</scope>-->
+      <!--</dependency>-->
 
   </dependencies>
 
@@ -155,8 +152,8 @@
           <plugin>
               <artifactId>maven-compiler-plugin</artifactId>
               <configuration>
-                  <source>1.8</source>
-                  <target>1.8</target>
+                  <source>1.6</source>
+                  <target>1.6</target>
               </configuration>
           </plugin>
       </plugins>
