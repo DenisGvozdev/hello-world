@@ -43,8 +43,8 @@
 	<db-relationship name="gallery_painting" source="PAINTING" target="GALLERY" toMany="false">
 		<db-attribute-pair source="GALLERY_ID" target="ID"/>
 	</db-relationship>
-	<obj-relationship name="paintingArtist" source="Artist" target="Painting" deleteRule="Deny" db-relationship-path="painting_artist"/>
-	<obj-relationship name="paintingGallery" source="Gallery" target="Painting" deleteRule="Deny" db-relationship-path="painting_gallery"/>
+	<obj-relationship name="paintingArtist" source="Artist" target="Painting" deleteRule="Cascade" db-relationship-path="painting_artist"/>
+	<obj-relationship name="paintingGallery" source="Gallery" target="Painting" deleteRule="Nullify" db-relationship-path="painting_gallery"/>
 	<obj-relationship name="artistPainting" source="Painting" target="Artist" deleteRule="Nullify" db-relationship-path="artist_painting"/>
 	<obj-relationship name="galleryPainting" source="Painting" target="Gallery" deleteRule="Nullify" db-relationship-path="gallery_painting"/>
 </data-map>

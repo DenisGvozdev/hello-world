@@ -23,7 +23,7 @@ public class Main {
         // Создаем объекты
         Artist picasso = context.newObject(Artist.class);
         picasso.setName("Пабло Пикассо");
-        picasso.setDateOfBirthString("18811025");
+        picasso.setDateOfBirth(new Date());
 
         Gallery pushkin = context.newObject(Gallery.class);
         pushkin.setName("Музей изобразительных искусств им. А.С. Пушкина");
