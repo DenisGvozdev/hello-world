@@ -1,0 +1,8 @@
+com\gds\entity\Person.class
+com\gds\persistence\HibernateUtil.class
+com\gds\rest\PersonResource.class
+com\gds\dao\personDao\PersonDao.class
+com\gds\dto\PersonDto.class
+com\gds\service\personService\impl\PersonServiceImpl.class
+com\gds\dao\personDao\PersonDaoImpl.class
+com\gds\service\personService\interfaces\PersonService.class
