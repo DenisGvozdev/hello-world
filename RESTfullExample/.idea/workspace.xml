@@ -7,22 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2842a5f1-52ae-4410-bebe-c6e3257bfe71" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/server.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/entity/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/rest/PersonResource.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../multymodalproject/service/service.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/java/com/gds/rest/PersonResource.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../buildtool-maven-multimodule" afterPath="$PROJECT_DIR$/../buildtool-maven-multimodule" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/artifacts/web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/modules.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../multymodalproject/web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/web.iml" afterPath="$PROJECT_DIR$/../multymodalproject/web/web.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../multymodalproject/service/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/server/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../multymodalproject/service/src/main/java/comService/gds/dto/PersonDto.java" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/dto/PersonDto.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,8 +86,8 @@
       <file leaf-file-name="PersonResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gds/rest/PersonResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="82" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+            <state relative-caret-position="214">
+              <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -610,7 +596,7 @@
       <workItem from="1507828716749" duration="803000" />
       <workItem from="1507833858235" duration="1554000" />
       <workItem from="1507836328865" duration="990000" />
-      <workItem from="1508067764868" duration="7548000" />
+      <workItem from="1508067764868" duration="7568000" />
     </task>
     <task id="LOCAL-00001" summary="Добавляю проект RESTfullExample">
       <created>1507467215611</created>
@@ -644,10 +630,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59244000" />
+    <option name="totallyTimeSpent" value="59264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="374" y="5" width="1227" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -669,7 +656,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35904026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35904026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1125,8 +1112,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gds/rest/PersonResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="82" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
