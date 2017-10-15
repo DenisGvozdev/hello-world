@@ -7,63 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2842a5f1-52ae-4410-bebe-c6e3257bfe71" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/artifacts/client_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_18_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_18_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/libraries/Maven__org_gds_multimodal_client_server_server_1_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/MultimodalClientServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/client/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultimodalClientServer/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduleone_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduleone_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduletwo_ejb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduletwo_ejb_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduletwo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/artifacts/moduletwo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_18_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_18_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_18_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jboss_servlet_api_3_0_spec_1_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduleone/moduleone.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduleone/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduleone/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduletwo/moduletwo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduletwo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduletwo/src/main/java/org/gds/api/JaxRsResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MultyModuleProject/moduletwo/src/main/java/org/gds/dto/PersonDto.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_7_1.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/entity/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/rest/PersonResource.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multymodalproject/service/service.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/java/com/gds/rest/PersonResource.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../buildtool-maven-multimodule" afterPath="$PROJECT_DIR$/../buildtool-maven-multimodule" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/java/com/gds/rest/PersonResource.java" afterPath="$PROJECT_DIR$/../multymodalproject/web/src/main/java/com/gds/rest/PersonResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/java/com/gds/dto/PersonDto.java" afterPath="$PROJECT_DIR$/../multymodalproject/service/src/main/java/comService/gds/dto/PersonDto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/artifacts/web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/.idea/modules.xml" afterPath="$PROJECT_DIR$/../multymodalproject/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../multymodalproject/web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../multymodalproject/web/web.iml" afterPath="$PROJECT_DIR$/../multymodalproject/web/web.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../multymodalproject/service/pom.xml" afterPath="$PROJECT_DIR$/../multymodalproject/server/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../multymodalproject/service/src/main/java/comService/gds/dto/PersonDto.java" afterPath="$PROJECT_DIR$/../multymodalproject/server/src/main/java/comService/gds/dto/PersonDto.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -128,36 +87,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="34" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="233">
+              <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonResource.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PersonResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gds/rest/PersonResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="486">
+              <caret line="82" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1508078873896" expanded="true" signature="815:940" ph="{...}" />
-                <marker date="1508078873896" expanded="true" signature="946:1140" ph="/**...*/" />
-                <marker date="1508078873896" expanded="true" signature="1145:1246" ph="@{...}" />
-                <marker date="1508078873896" expanded="true" signature="1319:1434" ph="{...}" />
-                <marker date="1508078873896" expanded="true" signature="1440:1628" ph="/**...*/" />
-                <marker date="1508078873896" expanded="true" signature="1633:1701" ph="@{...}" />
-                <marker date="1508078873896" expanded="true" signature="1762:1884" ph="{...}" />
-                <marker date="1508078873896" expanded="true" signature="1890:2074" ph="/**...*/" />
-                <marker date="1508078873896" expanded="true" signature="2079:2152" ph="@{...}" />
-                <marker date="1508078873896" expanded="true" signature="2211:2333" ph="{...}" />
-                <marker date="1508078873896" expanded="true" signature="2339:2535" ph="/**...*/" />
-                <marker date="1508078873896" expanded="true" signature="2540:2572" ph="@{...}" />
-                <marker date="1508078873896" expanded="true" signature="2635:2720" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -362,6 +308,16 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="gds" type="462c0819:PsiDirectoryNode" />
               <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTfullExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTfullExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gds" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RESTfullExample" type="b2602c69:ProjectViewProjectNode" />
@@ -654,7 +610,7 @@
       <workItem from="1507828716749" duration="803000" />
       <workItem from="1507833858235" duration="1554000" />
       <workItem from="1507836328865" duration="990000" />
-      <workItem from="1508067764868" duration="6913000" />
+      <workItem from="1508067764868" duration="7548000" />
     </task>
     <task id="LOCAL-00001" summary="Добавляю проект RESTfullExample">
       <created>1507467215611</created>
@@ -688,11 +644,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58609000" />
+    <option name="totallyTimeSpent" value="59244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="374" y="5" width="1227" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1137,29 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gds/rest/PersonResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1508078873896" expanded="true" signature="815:940" ph="{...}" />
-            <marker date="1508078873896" expanded="true" signature="946:1140" ph="/**...*/" />
-            <marker date="1508078873896" expanded="true" signature="1145:1246" ph="@{...}" />
-            <marker date="1508078873896" expanded="true" signature="1319:1434" ph="{...}" />
-            <marker date="1508078873896" expanded="true" signature="1440:1628" ph="/**...*/" />
-            <marker date="1508078873896" expanded="true" signature="1633:1701" ph="@{...}" />
-            <marker date="1508078873896" expanded="true" signature="1762:1884" ph="{...}" />
-            <marker date="1508078873896" expanded="true" signature="1890:2074" ph="/**...*/" />
-            <marker date="1508078873896" expanded="true" signature="2079:2152" ph="@{...}" />
-            <marker date="1508078873896" expanded="true" signature="2211:2333" ph="{...}" />
-            <marker date="1508078873896" expanded="true" signature="2339:2535" ph="/**...*/" />
-            <marker date="1508078873896" expanded="true" signature="2540:2572" ph="@{...}" />
-            <marker date="1508078873896" expanded="true" signature="2635:2720" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1185,9 +1117,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="34" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="233">
+          <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gds/rest/PersonResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

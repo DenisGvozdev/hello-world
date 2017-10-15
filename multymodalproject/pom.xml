@@ -11,11 +11,11 @@
 
     <modules>
         <module>web</module>
-        <module>service</module>
+        <module>server</module>
     </modules>
 
     <build>
-        <finalName>web</finalName>
+        <finalName>multy-modal-project</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

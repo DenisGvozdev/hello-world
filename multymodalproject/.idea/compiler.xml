@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="server" />
         <module name="service" />
         <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="multymodalproject" target="1.5" />
+      <module name="server" target="1.7" />
       <module name="service" target="1.7" />
       <module name="web" target="1.7" />
     </bytecodeTargetLevel>

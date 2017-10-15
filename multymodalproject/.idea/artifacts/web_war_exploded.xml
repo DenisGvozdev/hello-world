@@ -7,8 +7,8 @@
           <element id="module-output" name="web" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="service-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="service" />
+          <element id="archive" name="server-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="server" />
           </element>
           <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.18.1" />
           <element id="library" level="project" name="Maven: com.sun.jersey:jersey-servlet:1.18.1" />
