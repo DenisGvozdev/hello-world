@@ -28,22 +28,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!--&lt;!&ndash; JAX-RS / Jersey &ndash;&gt;-->
-        <!--<dependency>-->
-            <!--<groupId>com.sun.jersey</groupId>-->
-            <!--<artifactId>jersey-core</artifactId>-->
-            <!--<version>1.18.1</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>com.sun.jersey</groupId>-->
-            <!--<artifactId>jersey-servlet</artifactId>-->
-            <!--<version>1.18.1</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>com.sun.jersey</groupId>-->
-            <!--<artifactId>jersey-json</artifactId>-->
-            <!--<version>1.18.1</version>-->
-        <!--</dependency>-->
     </dependencies>
 
     <build>
