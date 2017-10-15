@@ -2,25 +2,20 @@ package com.gds.rest;
 
 import com.gds.dto.PersonDto;
 import com.gds.service.personService.impl.PersonServiceImpl;
-import com.gds.service.personService.interfaces.PersonService;
 import com.gds.entity.Person;
 
 import javax.annotation.PostConstruct;
-import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
-import javax.inject.Named;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import java.util.UUID;
 
 @Path("/personResource")
-@ApplicationScoped
-@Named
 public class PersonResource {
 
     @Inject
-    PersonService personService;
+    PersonServiceImpl personService;
 
     /**
      * Пример вызова: http://localhost:8080/rest/personService/create
@@ -32,7 +27,6 @@ public class PersonResource {
     @Path("/create")
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
-    @PostConstruct
     public Response create(PersonDto inputPerson){
         inputPerson = personService.add(inputPerson);
         return Response.status(200).entity(inputPerson).build();
