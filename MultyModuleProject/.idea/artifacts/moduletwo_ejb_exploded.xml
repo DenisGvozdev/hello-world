@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="moduletwo:ejb exploded">
+    <output-path>$PROJECT_DIR$/moduletwo/target/MultyModuleProject</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="moduletwo/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/moduletwo/target/MultyModuleProject/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="moduletwo" />
+    </root>
+  </artifact>
+</component>

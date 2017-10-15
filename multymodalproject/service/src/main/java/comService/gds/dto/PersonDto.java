@@ -1,4 +1,4 @@
-package com.gds.dto;
+package comService.gds.dto;
 
 public class PersonDto {
     private Long id;

@@ -1,6 +1,6 @@
 package com.gds.rest;
 
-import com.gds.dto.PersonDto;
+import comService.gds.dto.PersonDto;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
